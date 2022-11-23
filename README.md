@@ -1,1 +1,1 @@
-# 2022ii_gbi6_exam1
+# Cambie el contenido según las indicaciones del examen.
