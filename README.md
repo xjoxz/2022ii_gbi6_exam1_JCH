@@ -9,7 +9,8 @@
 - Residencia: Plan de Salud
 ## Datos del equipo
 ### Edición de Windows
-- Windows 10 Pro
+| Windows | 10 Pro |
+| --- | --- |
 - Microsoft Corporation. Todos los derechos reservados
 ### Sistema
 - Procesador: Intel(R) Celeron(R) CPU N2840 @ 2.16GHz 2.16GHz
